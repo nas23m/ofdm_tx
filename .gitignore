@@ -1,0 +1,9 @@
+vivado/
+*.log
+*.jou
+*.pb
+*.wdb
+*.vdb
+*.str
+__pycache__/
+*.py[cod]
